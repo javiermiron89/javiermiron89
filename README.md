@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @javiermiron89
 - 👀 I’m interested in learn
-- 🌱 I’m currently studying systems engineering
+- 🌱 I’m Systems Engineer
 - 📫 How to reach me: javiermiron89@gmail.com
 
 <!---
